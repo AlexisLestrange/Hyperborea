@@ -20,4 +20,212 @@ Data:
       MapEffects: []
     - Name: Golden Bahamut
       Weather: 32
-      MapEffects: []  
+      MapEffects: []
+  ex2/05_zon_z3/ome/z3oz/level/z3oz:
+    Name: the Omega Protocol (Ultimate)
+    Spawn:
+      X: 100
+      Y: 0
+      Z: 100
+    Phases:
+    - Name: Pre-load obj removal
+      Weather: 77
+      MapEffects:
+      - a1: 0
+        a2: 1
+        a3: 2
+      - a1: 1
+        a2: 4
+        a3: 4
+      - a1: 2
+        a2: 4
+        a3: 4
+      - a1: 3
+        a2: 4
+        a3: 4
+      - a1: 4
+        a2: 4
+        a3: 4
+      - a1: 5
+        a2: 4
+        a3: 4
+      - a1: 6
+        a2: 4
+        a3: 4
+      - a1: 7
+        a2: 4
+        a3: 4
+      - a1: 8
+        a2: 4
+        a3: 4
+      - a1: 12
+        a2: 4
+        a3: 4
+      - a1: 13
+        a2: 4
+        a3: 4
+      - a1: 14
+        a2: 4
+        a3: 4
+      - a1: 15
+        a2: 4
+        a3: 4
+      - a1: 16
+        a2: 4
+        a3: 4
+      - a1: 17
+        a2: 4
+        a3: 4
+      - a1: 18
+        a2: 4
+        a3: 4
+      - a1: 19
+        a2: 4
+        a3: 4
+      - a1: 10
+        a2: 1
+        a3: 4
+      - a1: 20
+        a2: 1
+        a3: 4
+      - a1: 21
+        a2: 1
+        a3: 4
+    - Name: 'Phase 1 '
+      Weather: 77
+      MapEffects:
+      - a1: 10
+        a2: 1
+        a3: 8
+      - a1: 20
+        a2: 1
+        a3: 8
+      - a1: 21
+        a2: 1
+        a3: 8
+      - a1: 0
+        a2: 1
+        a3: 1
+    - Name: Phase 2
+      Weather: 78
+      MapEffects:
+      - a1: 20
+        a2: 1
+        a3: 8
+      - a1: 21
+        a2: 1
+        a3: 8
+      - a1: 10
+        a2: 1
+        a3: 2
+      - a1: 0
+        a2: 1
+        a3: 1
+    - Name: Phase 3
+      Weather: 79
+      MapEffects:
+      - a1: 11
+        a2: 1
+        a3: 2
+      - a1: 10
+        a2: 1
+        a3: 8
+      - a1: 20
+        a2: 1
+        a3: 8
+      - a1: 21
+        a2: 1
+        a3: 8
+      - a1: 0
+        a2: 1
+        a3: 1
+    - Name: Phase 3 Hello World
+      Weather: 176
+      MapEffects:
+      - a1: 10
+        a2: 1
+        a3: 8
+      - a1: 20
+        a2: 1
+        a3: 8
+      - a1: 21
+        a2: 1
+        a3: 8
+      - a1: 0
+        a2: 1
+        a3: 1
+    - Name: Phase 4
+      Weather: 89
+      MapEffects:
+      - a1: 10
+        a2: 1
+        a3: 8
+      - a1: 21
+        a2: 1
+        a3: 8
+      - a1: 20
+        a2: 1
+        a3: 2
+      - a1: 0
+        a2: 1
+        a3: 1
+    - Name: Phase 5
+      Weather: 174
+      MapEffects:
+      - a1: 10
+        a2: 1
+        a3: 8
+      - a1: 20
+        a2: 1
+        a3: 8
+      - a1: 21
+        a2: 1
+        a3: 8
+      - a1: 0
+        a2: 1
+        a3: 1
+    - Name: Phase 6
+      Weather: 175
+      MapEffects:
+      - a1: 10
+        a2: 1
+        a3: 8
+      - a1: 20
+        a2: 1
+        a3: 8
+      - a1: 21
+        a2: 1
+        a3: 8
+      - a1: 0
+        a2: 1
+        a3: 1
+    - Name: Phase 6 Magic Number
+      Weather: 175
+      MapEffects:
+      - a1: 10
+        a2: 1
+        a3: 8
+      - a1: 20
+        a2: 1
+        a3: 8
+      - a1: 21
+        a2: 1
+        a3: 2
+      - a1: 0
+        a2: 1
+        a3: 1
+    - Name: Clear Arena
+      Weather: 175
+      MapEffects:
+      - a1: 10
+        a2: 1
+        a3: 4
+      - a1: 20
+        a2: 1
+        a3: 4
+      - a1: 21
+        a2: 1
+        a3: 4
+      - a1: 0
+        a2: 1
+        a3: 4
